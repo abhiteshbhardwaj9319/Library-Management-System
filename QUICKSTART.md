@@ -44,5 +44,4 @@ That's it! No database setup needed - everything runs in memory.
 ## Notes
 
 - This is a demo project for learning OOP
-- No persistence - restart to reset everything
-- Some features might have bugs (still learning!)
+- No persistence - restart to reset everything 
